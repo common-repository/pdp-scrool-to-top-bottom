@@ -1,0 +1,13 @@
+
+/*pdp scrool top to buttom plugin custom css */
+
+#totopscroller{
+background:url(img/totopicons.png);
+
+}
+.totopscroller-prev {
+  background-position: 0 86px !important;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
